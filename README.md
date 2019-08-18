@@ -35,7 +35,7 @@ There are no template links in this template.
 
 ## Discovery rules
 
-There are no discovery rules, as you can make a full clone of the template for every Odoo instance
+There are no discovery rules
 
 ## Items collected
 
